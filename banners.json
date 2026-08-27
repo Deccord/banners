@@ -2,21 +2,21 @@
   "banners": [
     {
       "id": "mydoge-listing",
-      "image": "https://raw.githubusercontent.com/Deccord/banners/main/mydoge.png",
+      "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-MYDOGE.png",
       "link": "/trade/MYDOGEUSDT",
       "alt": "MYDOGE now listed",
       "title": "MYDOGE/USDT"
     },
     {
       "id": "frio-listing",
-      "image": "https://raw.githubusercontent.com/Deccord/banners/main/mydoge.png",
+      "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-FRIO.png",
       "link": "/trade/FRIOUSDT",
       "alt": "FRIO now listed",
       "title": "FRIO/USDT"
     },
     {
       "id": "ppc-listing",
-      "image": "https://raw.githubusercontent.com/Deccord/banners/main/mydoge.png",
+      "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-PPC.png",
       "link": "/trade/PPCUSDT",
       "alt": "PPC now listed",
       "title": "PPC/USDT"
