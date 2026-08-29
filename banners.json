@@ -1,6 +1,13 @@
 {
   "banners": [
     {
+      "id": "cas-listing",
+      "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-CAS.png",
+      "link": "/trade/CASUSDT",
+      "alt": "CAS now listed",
+      "title": "CAS/USDT"
+    },
+    {
       "id": "mydoge-listing",
       "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-MYDOGE.png",
       "link": "/trade/MYDOGEUSDT",
