@@ -1,6 +1,13 @@
 {
   "banners": [
     {
+      "id": "nito-listing",
+      "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-NITO.png",
+      "link": "/trade/NITOUSDT",
+      "alt": "NITO now listed",
+      "title": "NITO/USDT"
+    },
+    {
       "id": "cas-listing",
       "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-CAS.png",
       "link": "/trade/CASUSDT",
