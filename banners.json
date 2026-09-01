@@ -1,6 +1,13 @@
 {
   "banners": [
     {
+      "id": "dmd-listing",
+      "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-DMD.png",
+      "link": "/trade/DMDUSDT",
+      "alt": "DMD now listed",
+      "title": "DMD/USDT"
+    },
+    {
       "id": "bblu-listing",
       "image": "https://raw.githubusercontent.com/Deccord/banners/refs/heads/main/DECCORD-BBLU.png",
       "link": "/trade/BBLUUSDT",
